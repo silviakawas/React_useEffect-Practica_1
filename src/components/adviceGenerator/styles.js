@@ -23,7 +23,7 @@ const StyledP = styled.p`
     font-size: 22px;
     font-weight: 500;
     color: white;
-    padding: 30px 0;
+    padding: 30px 15px;
     margin: 0 20px;
     text-align: center;
 `;
@@ -41,6 +41,7 @@ const StyledHr = styled.hr`
     width: 100%;
     background-color: #CEE3E9;
     border: 1px solid #CEE3E9;
+    margin: 0px 15px;
 `;
 
 const StyledImage = styled.img`
